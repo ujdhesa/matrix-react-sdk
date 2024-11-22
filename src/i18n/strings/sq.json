@@ -1,3 +1,4 @@
+
 {
     "a11y": {
         "jump_first_invite": "Hidhu te ftesa e parë.",
@@ -1889,7 +1890,7 @@
         "sort_unread_first": "Së pari shfaq dhoma me mesazhe të palexuar",
         "space_menu_label": "Menu %(spaceName)s",
         "sublist_options": "Mundësi liste",
-        "suggested_rooms_heading": "Roma të Këshilluara"
+        "suggested_rooms_heading": "Dhoma të Këshilluara"
     },
     "room_settings": {
         "access": {
